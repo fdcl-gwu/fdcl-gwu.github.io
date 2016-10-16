@@ -1,0 +1,16 @@
+# Site settings
+title: FDCL
+tag_text: Flight Dynamics and Control Lab
+description: Flight Dynamics and Control Laboratory at the George Washington University
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
+
+# Github API
+repository: fdcl-gwu/fdcl-gwu.github.io
+
+# Gems
+gems: ['jekyll-github-metadata']

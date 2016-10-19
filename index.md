@@ -7,6 +7,8 @@ This page is generated using [Jekyll](http://jekyllrb.com/): a static page websi
 [Github Pages](https://pages.github.com/) can automatically host websites as well.
 This allows for relatively simple static pages, which are written in [Markdown](https://daringfireball.net/projects/markdown/), to be automatically generated and hosted online.
 
+The following sections are automatically generated using Jekyll.
+
 ## Work
 
 Our public repositories are:

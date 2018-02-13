@@ -2,6 +2,7 @@
 title: FDCL
 tag_text: Flight Dynamics and Control Lab
 description: Flight Dynamics and Control Laboratory at the George Washington University
+theme: jekyll-theme-cayman
 
 # Build settings
 markdown: kramdown

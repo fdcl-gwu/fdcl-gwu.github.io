@@ -14,7 +14,7 @@ The following sections are automatically generated using Jekyll.
 Our public repositories are:
 
 {% for repository in site.github.public_repositories %}
-  * [{{ repository.name | replace:'_',' ' | replace:'-',' ' | upcase }}]({{ repository.html_url }}) - {{ repository.description }}
+  * [{{ repository.name | replace:'_','-' }}]({{ repository.html_url }}) - {{ repository.description }}
 {% endfor %}
 
 ## Members of [{{ site.github.owner_name }}]({{ site.github.owner_url }})

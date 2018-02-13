@@ -17,8 +17,11 @@ Our public repositories are:
   * [{{ repository.name | replace:'_','-' }}]({{ repository.html_url }}) - {{ repository.description }}
 {% endfor %}
 
-## Members of [{{ site.github.owner_name }}]({{ site.github.owner_url }})
 
+## Members of FDCL
+<!-- [{{ site.github.owner_name }}]({{ site.github.owner_url }}) -->
+
+<!-- Member | Description   -->
 {% for member in site.github.organization_members %}
- * [{{member.login}}]({{member.html_url}})<img src="{{member.avatar_url}}" width="60">
+  <img src="{{member.avatar_url}}" width="60"> [{{member.login}}]({{member.html_url}})
 {% endfor %}

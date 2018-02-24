@@ -12,9 +12,20 @@ for org in g.get_user().get_orgs():
         fdcl = org
         break
 
-# pdb.set_trace()
 private_repos = []
 public_repos = []
+member_repo = {}
+member_repo['members'] = []
+
+for mem in fdcl.get_members():
+    member_repo[mem.login] = {}
+    member_repo[mem.login]['repos'] = []
+    member_repo[mem.login]['name'] = mem.name
+    member_repo[mem.login]['url'] = mem.html_url
+    member_repo[mem.login]['email'] = mem.email
+    member_repo[mem.login]['avatar'] = mem.avatar_url
+    member_repo['members'] = mem.login
+
 for repo in fdcl.get_repos():
     # print(repo)
     if repo.private:
@@ -22,8 +33,19 @@ for repo in fdcl.get_repos():
     else:
         public_repos.append(repo)
 
+    for mem in repo.get_contributors():
+        if mem.login in member_repo['members']:
+            member_repo[mem.login]['repos'].append(repo)
+
+    if repo.name == 'fdcl-uav':
+        break
 pdb.set_trace()
+
+
+# repo.get_tags
+# repo.description
 # repo.html_url
 # repo.get_contributors # list
 # repo.get_releases
 # repo.pushed_at # datetime
+# repo.get_tags # list

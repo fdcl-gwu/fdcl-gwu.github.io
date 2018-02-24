@@ -10,8 +10,9 @@ Github automatically publishes the `master` branch.
 If you want to try a different theme or make modifications, try to use a different branch and check that it is working locally before merging and pushing automatically.
 
 ## API Calls
+* `pip install pygithub`
 * Create a Personal Access Token and copy the token value.
-* Then add that to env values: `export  GITHUB_ACCSS_TKN=token value`
+* Then add that to env values: `export  GH_ACCSS_TKN=token value`
 * list all private repos: `curl -i -u your_user_name "https://api.github.com/orgs/fdcl-gwu/repos?type=private"`
 
 ## Offline Site Building

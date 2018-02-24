@@ -2,7 +2,6 @@ from github import Github
 
 import os
 import pdb
-# import urllib2
 
 GH_ACCSS_TKN = os.environ['GH_ACCSS_TKN']
 g = Github(GH_ACCSS_TKN)
@@ -14,33 +13,30 @@ for org in g.get_user().get_orgs():
 
 private_repos = []
 public_repos = []
-member_repo = {}
-member_repo['members'] = []
+member_repos = {}
+member_repos['members'] = []
 
 for mem in fdcl.get_members():
-    member_repo[mem.login] = {}
-    member_repo[mem.login]['repos'] = []
-    member_repo[mem.login]['name'] = mem.name
-    member_repo[mem.login]['url'] = mem.html_url
-    member_repo[mem.login]['email'] = mem.email
-    member_repo[mem.login]['avatar'] = mem.avatar_url
-    member_repo['members'] = mem.login
+    print(mem.login)
+    member_repos[mem.login] = {}
+    member_repos[mem.login]['repos'] = []
+    member_repos[mem.login]['name'] = mem.name
+    member_repos[mem.login]['url'] = mem.html_url
+    member_repos[mem.login]['email'] = mem.email
+    member_repos[mem.login]['avatar'] = mem.avatar_url
+    member_repos['members'].append(mem.login)
 
 for repo in fdcl.get_repos():
-    # print(repo)
     if repo.private:
         private_repos.append(repo)
     else:
         public_repos.append(repo)
 
     for mem in repo.get_contributors():
-        if mem.login in member_repo['members']:
-            member_repo[mem.login]['repos'].append(repo)
+        if mem.login in member_repos['members']:
+            member_repos[mem.login]['repos'].append(repo)
 
-    if repo.name == 'fdcl-uav':
-        break
 pdb.set_trace()
-
 
 # repo.get_tags
 # repo.description

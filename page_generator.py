@@ -22,7 +22,7 @@ def write_all_repos(fdcl, member_repos):
             f.write('[{}]({}) | '.format(repo.name, repo.html_url))
             for mem in repo.get_contributors():
                 if mem.login in member_repos['members']:
-                    f.write('[{}](repo_member.md#{}) '.format(mem.name,
+                    f.write('[{}](repo_member.md#{})<br/>'.format(mem.name,
                             mem.login))
 
             f.write(' | {}\n'.format(repo.description))

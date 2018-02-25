@@ -13,5 +13,5 @@ sass:
 # Github API
 repository: fdcl-gwu/fdcl-gwu.github.io
 
-# Gems
-gems: ['jekyll-github-metadata']
+plugins:
+  - "jekyll-github-metadata"

@@ -17,6 +17,22 @@ Email: None
 <p>&#160;<br></p>
 
 
+<a name="Chao8219"></a>
+
+<hr>
+<p>&#160;<br></p>
+
+<img src="https://avatars1.githubusercontent.com/u/39388321?v=4"  width="200"/>
+## Zichao Hou
+  Personal profile: [Chao8219](https://github.com/Chao8219)  
+Email: None  
+<p>&#160;<br></p>
+
+
+
+<p>&#160;<br></p>
+
+
 <a name="evankaufman"></a>
 
 <hr>
@@ -31,6 +47,8 @@ Email: evankaufman@gwu.edu
 Repository | Description
 ---- | ---- 
 [uav_geometric_controller](https://github.com/fdcl-gwu/uav_geometric_controller) |  UAV node for ROS
+[fdcl-uav](https://github.com/fdcl-gwu/fdcl-uav) |  FDCL flight controller
+[heightmap](https://github.com/fdcl-gwu/heightmap) |  Complicated 3D environments for the ~/.gazebo/models placed in the folder
 
 
 <p>&#160;<br></p>
@@ -70,22 +88,22 @@ Repository | Description
 ---- | ---- 
 [info_share](https://github.com/fdcl-gwu/info_share) |  Useful tips and tricks
 [ShipAirWake_DataPackage_PCB_Design](https://github.com/fdcl-gwu/ShipAirWake_DataPackage_PCB_Design) |  None
-[shipairwake-postprocessing](https://github.com/fdcl-gwu/shipairwake-postprocessing) |  None
+[shipairwake-postprocessing](https://github.com/fdcl-gwu/shipairwake-postprocessing) |  Post-porcessing the data collected during ship air-wake flight tests
 [odroid-XU4](https://github.com/fdcl-gwu/odroid-XU4) |  Controlling a multi-rotor with Odroid XU4
-[shipairwake-data-collector](https://github.com/fdcl-gwu/shipairwake-data-collector) |  None
-[odroid-XU4-documentation](https://github.com/fdcl-gwu/odroid-XU4-documentation) |  None
+[shipairwake-data-collector](https://github.com/fdcl-gwu/shipairwake-data-collector) |  Collecting data real time for ship air-wake project while plotting real time bow anemometer data for the bridge display 
+[odroid-XU4-documentation](https://github.com/fdcl-gwu/odroid-XU4-documentation) |  Documentation for configuring Odroid-XU4 for flying a hexrotor.
 [vicon-send-data](https://github.com/fdcl-gwu/vicon-send-data) |  Code to be run on the Vicon host computer. This receives data from the Vicon data and send to XBee attached to the Vicon host computer.
 [poster_template](https://github.com/fdcl-gwu/poster_template) |  48" x 36" Poster template
-[complex-manuevers](https://github.com/fdcl-gwu/complex-manuevers) |  Matlab simulation of the Dr. Lee's paper "Control of Complex Maneuvers for a Quadrotor UAV using Geometric Methods on SE(3)"
-[fixed-wing-data-acquisition](https://github.com/fdcl-gwu/fixed-wing-data-acquisition) |  None
-[detect-drone](https://github.com/fdcl-gwu/detect-drone) |  None
-[2018-AIAA-ship-airwake](https://github.com/fdcl-gwu/2018-AIAA-ship-airwake) |  Vision-Based Relative Localization for Airborne Measurements of Ship Air Wake
+[complex-manuevers](https://github.com/fdcl-gwu/complex-manuevers) |  Matlab simulation of the paper "Control of Complex Maneuvers for a Quadrotor UAV using Geometric Methods on SE(3)"
+[fixed-wing-data-acquisition](https://github.com/fdcl-gwu/fixed-wing-data-acquisition) |  Designing the PCB, Arduino codes, reading RC inputs, real time bow anemometer plot to bridge, post-processing, and hardware configuration details for the Night Walrus data package
+[detect-drone](https://github.com/fdcl-gwu/detect-drone) |  Detecting the Rover on the video saved by the ship mounted camera, results published in 2018 AIAA.
+[2018-AIAA-ship-airwake](https://github.com/fdcl-gwu/2018-AIAA-ship-airwake) |  Paper: Vision-Based Relative Localization for Airborne Measurements of Ship Air Wake
 [uav_geometric_controller](https://github.com/fdcl-gwu/uav_geometric_controller) |  UAV node for ROS
 [scientific_python](https://github.com/fdcl-gwu/scientific_python) |  Intro to scientific Python programming
-[shipairwake-data-package](https://github.com/fdcl-gwu/shipairwake-data-package) |  None
+[shipairwake-data-package](https://github.com/fdcl-gwu/shipairwake-data-package) |  Arduino codes for data packages used in ship air-wake project
 [ros-install](https://github.com/fdcl-gwu/ros-install) |  Bash file used to install ROS
 [fixed_wing_animate](https://github.com/fdcl-gwu/fixed_wing_animate) |  Trying to make a 3D visualization for the Night Walrus flight test data with RVIZ
-[ardupilot](https://github.com/fdcl-gwu/ardupilot) |  None
+[ardupilot](https://github.com/fdcl-gwu/ardupilot) |  Ardupilot code forked from Ardupilot repository
 [swiftnav-multi](https://github.com/fdcl-gwu/swiftnav-multi) |  Python and C codes for reading multiple messages from SwiftNav Piksi Multi.
 [motor-calibration](https://github.com/fdcl-gwu/motor-calibration) |  Motor+ESC calibration methods, procedures, and codes
 [fdcl-uav](https://github.com/fdcl-gwu/fdcl-uav) |  FDCL flight controller
@@ -93,8 +111,8 @@ Repository | Description
 [vectornav](https://github.com/fdcl-gwu/vectornav) |  VectorNav libraries used for IMU-VN100 from https://www.vectornav.com/support/downloads
 [eigen](https://github.com/fdcl-gwu/eigen) |  Eigen library for C++ from http://eigen.tuxfamily.org
 [jetson-pcb](https://github.com/fdcl-gwu/jetson-pcb) |  Jetson PCB to talk with IMU, GPS and anemometers
-[code-site](https://github.com/fdcl-gwu/code-site) |  None
 [jetson-config](https://github.com/fdcl-gwu/jetson-config) |  Documentation for configuring Jetson boards
+[2019-AIAA](https://github.com/fdcl-gwu/2019-AIAA) |  None
 
 
 <p>&#160;<br></p>
@@ -156,6 +174,7 @@ Repository | Description
 [se3_geometric_control](https://github.com/fdcl-gwu/se3_geometric_control) |  Central Repo for SE(3) geometric controller
 [Quadrotor-C-code](https://github.com/fdcl-gwu/Quadrotor-C-code) |  None
 [Motor_calibration](https://github.com/fdcl-gwu/Motor_calibration) |  None
+[fdcl-uav](https://github.com/fdcl-gwu/fdcl-uav) |  FDCL flight controller
 [Poster-Template](https://github.com/fdcl-gwu/Poster-Template) |  None
 [Measuring-rotor-speed-using-optical-detector](https://github.com/fdcl-gwu/Measuring-rotor-speed-using-optical-detector) |  For Optical Detector / Phototransistor - QRD1114
 
@@ -176,8 +195,9 @@ Email: None
 
 Repository | Description
 ---- | ---- 
-[ardupilot](https://github.com/fdcl-gwu/ardupilot) |  None
+[ardupilot](https://github.com/fdcl-gwu/ardupilot) |  Ardupilot code forked from Ardupilot repository
 [Motor_Tests](https://github.com/fdcl-gwu/Motor_Tests) |  None
+[fdcl-uav](https://github.com/fdcl-gwu/fdcl-uav) |  FDCL flight controller
 
 
 <p>&#160;<br></p>
@@ -207,7 +227,7 @@ Email: None
 <img src="https://avatars2.githubusercontent.com/u/5266022?v=4"  width="200"/>
 ## Shankar Kulumani
   Personal profile: [skulumani](https://github.com/skulumani)  
-Email: None  
+Email: skulumani@gwu.edu  
 <p>&#160;<br></p>
 
 Repository | Description
@@ -241,7 +261,7 @@ Repository | Description
 [asteroid_dumbbell](https://github.com/fdcl-gwu/asteroid_dumbbell) |  Simulation of a dumbbell spacecraft about an asteroid
 [MAE3134_examples](https://github.com/fdcl-gwu/MAE3134_examples) |  Some linear systems analysis examples for class
 [python_seminar](https://github.com/fdcl-gwu/python_seminar) |  A tutorial to scientific Python
-[detect-drone](https://github.com/fdcl-gwu/detect-drone) |  None
+[detect-drone](https://github.com/fdcl-gwu/detect-drone) |  Detecting the Rover on the video saved by the ship mounted camera, results published in 2018 AIAA.
 [foucault](https://github.com/fdcl-gwu/foucault) |  Foucault pendulum simulation
 [kinematics](https://github.com/fdcl-gwu/kinematics) |  Python module to do attitude kinematics
 [2016_IJCAS_code](https://github.com/fdcl-gwu/2016_IJCAS_code) |  Simulation code for generating the plots and experimental data for IJCAS submission
@@ -255,8 +275,14 @@ Repository | Description
 [Pangolin](https://github.com/fdcl-gwu/Pangolin) |  Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 [2017_AAS_fall_presentation](https://github.com/fdcl-gwu/2017_AAS_fall_presentation) |  Geometric Control for Autonomous Landing on Asteroid Itokawa using Visual Localization
 [MAE3145](https://github.com/fdcl-gwu/MAE3145) |  Astrodynamics at GWU
+[fdcl-uav](https://github.com/fdcl-gwu/fdcl-uav) |  FDCL flight controller
 [freertos_demo](https://github.com/fdcl-gwu/freertos_demo) |  Demo and manual for working with FreeRTOS
 [freertos](https://github.com/fdcl-gwu/freertos) |  FreeRTOS clone from website
+[2018_aas_abstract](https://github.com/fdcl-gwu/2018_aas_abstract) |  Abstract for AAS conference
+[2018_sspi_manuscript](https://github.com/fdcl-gwu/2018_sspi_manuscript) |  Manuscript submission for 2018 SSPI
+[2018_sspi_presentation](https://github.com/fdcl-gwu/2018_sspi_presentation) |  Presentation for 2018 SSPI
+[2017_JAS_matlab](https://github.com/fdcl-gwu/2017_JAS_matlab) |  Matlab code for 2017 JAS submission - fork from 2015_acta_matlab
+[fdcl-hdf5](https://github.com/fdcl-gwu/fdcl-hdf5) |  HDF5 wrapper for use with Eigen
 
 
 <p>&#160;<br></p>
@@ -292,6 +318,7 @@ Email: None
 Repository | Description
 ---- | ---- 
 [2016_IJCAS](https://github.com/fdcl-gwu/2016_IJCAS) |  Constrained Attitude Control on SO(3)
+[2017_JAS_manuscript](https://github.com/fdcl-gwu/2017_JAS_manuscript) |  Fork from https://github.com/skulumani/2015_Acta_manuscript for resubmission to JAS
 [Matrix-Fisher-Distribution](https://github.com/fdcl-gwu/Matrix-Fisher-Distribution) |  None
 [fdcl_param](https://github.com/fdcl-gwu/fdcl_param) |  None
 [fdcl_serialization](https://github.com/fdcl-gwu/fdcl_serialization) |  None
@@ -300,5 +327,6 @@ Repository | Description
 [fdcl_save](https://github.com/fdcl-gwu/fdcl_save) |  None
 [fdcl-uav](https://github.com/fdcl-gwu/fdcl-uav) |  FDCL flight controller
 [fdcl_nn](https://github.com/fdcl-gwu/fdcl_nn) |  None
+[fdcl_FFTSO3](https://github.com/fdcl-gwu/fdcl_FFTSO3) |  None
 
 

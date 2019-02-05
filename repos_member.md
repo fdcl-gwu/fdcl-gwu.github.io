@@ -1,6 +1,22 @@
 <p>&#160;<br></p>
 
 
+<a name="afarrar1297"></a>
+
+<hr>
+<p>&#160;<br></p>
+
+<img src="https://avatars3.githubusercontent.com/u/36579812?v=4"  width="200"/>
+## Allegra Farrar
+  Personal profile: [afarrar1297](https://github.com/afarrar1297)  
+Email: None  
+<p>&#160;<br></p>
+
+
+
+<p>&#160;<br></p>
+
+
 <a name="agnesroba"></a>
 
 <hr>
@@ -9,6 +25,22 @@
 <img src="https://avatars3.githubusercontent.com/u/25670956?v=4"  width="200"/>
 ## None
   Personal profile: [agnesroba](https://github.com/agnesroba)  
+Email: None  
+<p>&#160;<br></p>
+
+
+
+<p>&#160;<br></p>
+
+
+<a name="carolynfisk"></a>
+
+<hr>
+<p>&#160;<br></p>
+
+<img src="https://avatars1.githubusercontent.com/u/38791633?v=4"  width="200"/>
+## None
+  Personal profile: [carolynfisk](https://github.com/carolynfisk)  
 Email: None  
 <p>&#160;<br></p>
 
@@ -28,6 +60,9 @@ Email: None
 Email: None  
 <p>&#160;<br></p>
 
+Repository | Description
+---- | ---- 
+[WWW](https://github.com/fdcl-gwu/WWW) |  None
 
 
 <p>&#160;<br></p>
@@ -49,6 +84,24 @@ Repository | Description
 [uav_geometric_controller](https://github.com/fdcl-gwu/uav_geometric_controller) |  UAV node for ROS
 [fdcl-uav](https://github.com/fdcl-gwu/fdcl-uav) |  FDCL flight controller
 [heightmap](https://github.com/fdcl-gwu/heightmap) |  Complicated 3D environments for the ~/.gazebo/models placed in the folder
+[ogm_ae](https://github.com/fdcl-gwu/ogm_ae) |  Occupancy Grid Mapping and Autonomous Exploration
+[fdcl_test](https://github.com/fdcl-gwu/fdcl_test) |  Tests ogm_ae, sends WIFI to fdcl_uav's Rover
+
+
+<p>&#160;<br></p>
+
+
+<a name="JShep1"></a>
+
+<hr>
+<p>&#160;<br></p>
+
+<img src="https://avatars0.githubusercontent.com/u/8881852?v=4"  width="200"/>
+## John
+  Personal profile: [JShep1](https://github.com/JShep1)  
+Email: johnshepherd96@yahoo.com  
+<p>&#160;<br></p>
+
 
 
 <p>&#160;<br></p>
@@ -87,6 +140,7 @@ Email: kanishkegb@gwu.edu
 Repository | Description
 ---- | ---- 
 [info_share](https://github.com/fdcl-gwu/info_share) |  Useful tips and tricks
+[fdcl-gwu.github.io](https://github.com/fdcl-gwu/fdcl-gwu.github.io) |  Demonstration of using Github pages
 [ShipAirWake_DataPackage_PCB_Design](https://github.com/fdcl-gwu/ShipAirWake_DataPackage_PCB_Design) |  None
 [shipairwake-postprocessing](https://github.com/fdcl-gwu/shipairwake-postprocessing) |  Post-porcessing the data collected during ship air-wake flight tests
 [odroid-XU4](https://github.com/fdcl-gwu/odroid-XU4) |  Controlling a multi-rotor with Odroid XU4
@@ -104,15 +158,32 @@ Repository | Description
 [ros-install](https://github.com/fdcl-gwu/ros-install) |  Bash file used to install ROS
 [fixed_wing_animate](https://github.com/fdcl-gwu/fixed_wing_animate) |  Trying to make a 3D visualization for the Night Walrus flight test data with RVIZ
 [ardupilot](https://github.com/fdcl-gwu/ardupilot) |  Ardupilot code forked from Ardupilot repository
-[swiftnav-multi](https://github.com/fdcl-gwu/swiftnav-multi) |  Python and C codes for reading multiple messages from SwiftNav Piksi Multi.
-[motor-calibration](https://github.com/fdcl-gwu/motor-calibration) |  Motor+ESC calibration methods, procedures, and codes
+[swiftnav-multi](https://github.com/fdcl-gwu/swiftnav-multi) |  Python and C codes for reading multiple SBP messages from SwiftNav Piksi Multi, and update settings or reset Multi without the Swift Console.
+[fdcl_param](https://github.com/fdcl-gwu/fdcl_param) |  A C++ tool to read parameters from a text file, or save them to a text file.
+[fdcl_serialization](https://github.com/fdcl-gwu/fdcl_serialization) |  A C++ tool to save variables into a binary buffer or read variables from a binary buffer
+[fdcl_wifi](https://github.com/fdcl-gwu/fdcl_wifi) |  None
+[fdcl_save](https://github.com/fdcl-gwu/fdcl_save) |  Easily save data into a text file in C++
 [fdcl-uav](https://github.com/fdcl-gwu/fdcl-uav) |  FDCL flight controller
 [vrpn](https://github.com/fdcl-gwu/vrpn) |  VRPN repository downloaded from  git.cs.unc.edu/vrpn.git
-[vectornav](https://github.com/fdcl-gwu/vectornav) |  VectorNav libraries used for IMU-VN100 from https://www.vectornav.com/support/downloads
+[vectornav](https://github.com/fdcl-gwu/vectornav) |  fdcl_vn100 class with the VectorNav libraries used for IMU-VN100 from https://www.vectornav.com/support/downloads
 [eigen](https://github.com/fdcl-gwu/eigen) |  Eigen library for C++ from http://eigen.tuxfamily.org
 [jetson-pcb](https://github.com/fdcl-gwu/jetson-pcb) |  Jetson PCB to talk with IMU, GPS and anemometers
 [jetson-config](https://github.com/fdcl-gwu/jetson-config) |  Documentation for configuring Jetson boards
-[2019-AIAA](https://github.com/fdcl-gwu/2019-AIAA) |  None
+[Measuring-rotor-speed-using-optical-detector](https://github.com/fdcl-gwu/Measuring-rotor-speed-using-optical-detector) |  For Optical Detector / Phototransistor - QRD1114
+[2019-AIAA-RTK](https://github.com/fdcl-gwu/2019-AIAA-RTK) |  Paper: Real-time Kinematics GPS Based Telemetry System for Airborne Measurements of Ship Air Wake
+[piksi_tools](https://github.com/fdcl-gwu/piksi_tools) |  Tools for the Piksi GNSS receiver.
+[lidar-lite-v3](https://github.com/fdcl-gwu/lidar-lite-v3) |  A C++ class to read from the Lidar sensor - Garmin LIDAR-Lite v3
+[WWW](https://github.com/fdcl-gwu/WWW) |  None
+[ACC19-1](https://github.com/fdcl-gwu/ACC19-1) |  None
+[zed-aruco](https://github.com/fdcl-gwu/zed-aruco) |  None
+[aruco-markers](https://github.com/fdcl-gwu/aruco-markers) |  Working examples/tutorial for detection and pose estimation of ArUco markers with C++
+[record-cameras](https://github.com/fdcl-gwu/record-cameras) |  None
+[ECC19](https://github.com/fdcl-gwu/ECC19) |  None
+[ECC19-experiments](https://github.com/fdcl-gwu/ECC19-experiments) |  None
+[eagle-cad-library](https://github.com/fdcl-gwu/eagle-cad-library) |  An Eagle CAD library for frequently used PCB components
+[arduino-vn100](https://github.com/fdcl-gwu/arduino-vn100) |  Reading VectorNav VN100 IMU data through an Arduino as binary messages, dealing with checksum.
+[SBUS](https://github.com/fdcl-gwu/SBUS) |  Arduino library for communicating with SBUS receivers and servos.
+[mavlink_uart_example](https://github.com/fdcl-gwu/mavlink_uart_example) |  Simple MAVLink to UART interface example for *nix systems
 
 
 <p>&#160;<br></p>
@@ -149,6 +220,7 @@ Repository | Description
 [se3_geometric_control](https://github.com/fdcl-gwu/se3_geometric_control) |  Central Repo for SE(3) geometric controller
 [ORB_SLAM2](https://github.com/fdcl-gwu/ORB_SLAM2) |  Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 [imu_pipeline](https://github.com/fdcl-gwu/imu_pipeline) |  Transforms sensor_msgs/Imu messages into new coordinate frames using tf
+[openmp_example](https://github.com/fdcl-gwu/openmp_example) |  Basic CMAKE example for OpenMP
 
 
 <p>&#160;<br></p>
@@ -162,7 +234,7 @@ Repository | Description
 <img src="https://avatars2.githubusercontent.com/u/22779992?v=4"  width="200"/>
 ## Mahdis Bisheban
   Personal profile: [mbshbn](https://github.com/mbshbn)  
-Email: None  
+Email: mbshbn@gwmail.gwu.edu  
 <p>&#160;<br></p>
 
 Repository | Description
@@ -174,9 +246,19 @@ Repository | Description
 [se3_geometric_control](https://github.com/fdcl-gwu/se3_geometric_control) |  Central Repo for SE(3) geometric controller
 [Quadrotor-C-code](https://github.com/fdcl-gwu/Quadrotor-C-code) |  None
 [Motor_calibration](https://github.com/fdcl-gwu/Motor_calibration) |  None
+[Motor_Tests](https://github.com/fdcl-gwu/Motor_Tests) |  None
 [fdcl-uav](https://github.com/fdcl-gwu/fdcl-uav) |  FDCL flight controller
+[vrpn](https://github.com/fdcl-gwu/vrpn) |  VRPN repository downloaded from  git.cs.unc.edu/vrpn.git
 [Poster-Template](https://github.com/fdcl-gwu/Poster-Template) |  None
+[jetson-config](https://github.com/fdcl-gwu/jetson-config) |  Documentation for configuring Jetson boards
 [Measuring-rotor-speed-using-optical-detector](https://github.com/fdcl-gwu/Measuring-rotor-speed-using-optical-detector) |  For Optical Detector / Phototransistor - QRD1114
+[Quadrotor_SOLIDWORKS_model](https://github.com/fdcl-gwu/Quadrotor_SOLIDWORKS_model) |  None
+[ACC19-1](https://github.com/fdcl-gwu/ACC19-1) |  None
+[Spherical_joint_mount](https://github.com/fdcl-gwu/Spherical_joint_mount) |  None
+[CDC_18](https://github.com/fdcl-gwu/CDC_18) |  None
+[Safety](https://github.com/fdcl-gwu/Safety) |  None
+[Butterworth-filter](https://github.com/fdcl-gwu/Butterworth-filter) |  None
+[TCST19](https://github.com/fdcl-gwu/TCST19) |  None
 
 
 <p>&#160;<br></p>
@@ -198,6 +280,7 @@ Repository | Description
 [ardupilot](https://github.com/fdcl-gwu/ardupilot) |  Ardupilot code forked from Ardupilot repository
 [Motor_Tests](https://github.com/fdcl-gwu/Motor_Tests) |  None
 [fdcl-uav](https://github.com/fdcl-gwu/fdcl-uav) |  FDCL flight controller
+[payload_transportation](https://github.com/fdcl-gwu/payload_transportation) |  Controller code for payload transportation with multiple quadrotors
 
 
 <p>&#160;<br></p>
@@ -227,7 +310,7 @@ Email: None
 <img src="https://avatars2.githubusercontent.com/u/5266022?v=4"  width="200"/>
 ## Shankar Kulumani
   Personal profile: [skulumani](https://github.com/skulumani)  
-Email: skulumani@gwu.edu  
+Email: shanks.k@gmail.com  
 <p>&#160;<br></p>
 
 Repository | Description
@@ -254,7 +337,6 @@ Repository | Description
 [2016_IJCAS](https://github.com/fdcl-gwu/2016_IJCAS) |  Constrained Attitude Control on SO(3)
 [crtbp_asteroid](https://github.com/fdcl-gwu/crtbp_asteroid) |  Transfer from the Earth to an asteroid using reachability
 [2015_ACTA_matlab](https://github.com/fdcl-gwu/2015_ACTA_matlab) |  None
-[2017_JAS_manuscript](https://github.com/fdcl-gwu/2017_JAS_manuscript) |  Fork from https://github.com/skulumani/2015_Acta_manuscript for resubmission to JAS
 [poster_template](https://github.com/fdcl-gwu/poster_template) |  48" x 36" Poster template
 [2017_AAS_manuscript](https://github.com/fdcl-gwu/2017_AAS_manuscript) |  Manuscript for 2017 AAS conference
 [2017_RD_poster](https://github.com/fdcl-gwu/2017_RD_poster) |  Poster for 2017 R&D showcase
@@ -274,7 +356,6 @@ Repository | Description
 [ORB_SLAM2](https://github.com/fdcl-gwu/ORB_SLAM2) |  Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 [Pangolin](https://github.com/fdcl-gwu/Pangolin) |  Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 [2017_AAS_fall_presentation](https://github.com/fdcl-gwu/2017_AAS_fall_presentation) |  Geometric Control for Autonomous Landing on Asteroid Itokawa using Visual Localization
-[MAE3145](https://github.com/fdcl-gwu/MAE3145) |  Astrodynamics at GWU
 [fdcl-uav](https://github.com/fdcl-gwu/fdcl-uav) |  FDCL flight controller
 [freertos_demo](https://github.com/fdcl-gwu/freertos_demo) |  Demo and manual for working with FreeRTOS
 [freertos](https://github.com/fdcl-gwu/freertos) |  FreeRTOS clone from website
@@ -283,6 +364,17 @@ Repository | Description
 [2018_sspi_presentation](https://github.com/fdcl-gwu/2018_sspi_presentation) |  Presentation for 2018 SSPI
 [2017_JAS_matlab](https://github.com/fdcl-gwu/2017_JAS_matlab) |  Matlab code for 2017 JAS submission - fork from 2015_acta_matlab
 [fdcl-hdf5](https://github.com/fdcl-gwu/fdcl-hdf5) |  HDF5 wrapper for use with Eigen
+[WWW](https://github.com/fdcl-gwu/WWW) |  None
+[Quadrotor_SOLIDWORKS_model](https://github.com/fdcl-gwu/Quadrotor_SOLIDWORKS_model) |  None
+[dissertation_shankar](https://github.com/fdcl-gwu/dissertation_shankar) |  Research all the time
+[2018_iwmc](https://github.com/fdcl-gwu/2018_iwmc) |  International Workshop on Micropropulsion for Cubesats
+[fdcl-protobuf](https://github.com/fdcl-gwu/fdcl-protobuf) |  Protocol Buffers for the UAV
+[openmp_example](https://github.com/fdcl-gwu/openmp_example) |  Basic CMAKE example for OpenMP
+[pybind_example](https://github.com/fdcl-gwu/pybind_example) |  Example for binding C++ and Python
+[2018_aas_manuscript](https://github.com/fdcl-gwu/2018_aas_manuscript) |  None
+[2018_aas_presentation](https://github.com/fdcl-gwu/2018_aas_presentation) |  AAS Astrodynamics Specialist Conference Snowbird, UT
+[2018_JGCD](https://github.com/fdcl-gwu/2018_JGCD) |  Submission to JGCD
+[2017_JAS_manuscript](https://github.com/fdcl-gwu/2017_JAS_manuscript) |  Fork from https://github.com/skulumani/2015_Acta_manuscript for resubmission to JAS
 
 
 <p>&#160;<br></p>
@@ -318,15 +410,49 @@ Email: None
 Repository | Description
 ---- | ---- 
 [2016_IJCAS](https://github.com/fdcl-gwu/2016_IJCAS) |  Constrained Attitude Control on SO(3)
-[2017_JAS_manuscript](https://github.com/fdcl-gwu/2017_JAS_manuscript) |  Fork from https://github.com/skulumani/2015_Acta_manuscript for resubmission to JAS
 [Matrix-Fisher-Distribution](https://github.com/fdcl-gwu/Matrix-Fisher-Distribution) |  None
-[fdcl_param](https://github.com/fdcl-gwu/fdcl_param) |  None
-[fdcl_serialization](https://github.com/fdcl-gwu/fdcl_serialization) |  None
+[fdcl_param](https://github.com/fdcl-gwu/fdcl_param) |  A C++ tool to read parameters from a text file, or save them to a text file.
+[fdcl_serialization](https://github.com/fdcl-gwu/fdcl_serialization) |  A C++ tool to save variables into a binary buffer or read variables from a binary buffer
 [fdcl_i2c](https://github.com/fdcl-gwu/fdcl_i2c) |  None
 [fdcl_wifi](https://github.com/fdcl-gwu/fdcl_wifi) |  None
-[fdcl_save](https://github.com/fdcl-gwu/fdcl_save) |  None
+[fdcl_save](https://github.com/fdcl-gwu/fdcl_save) |  Easily save data into a text file in C++
 [fdcl-uav](https://github.com/fdcl-gwu/fdcl-uav) |  FDCL flight controller
 [fdcl_nn](https://github.com/fdcl-gwu/fdcl_nn) |  None
-[fdcl_FFTSO3](https://github.com/fdcl-gwu/fdcl_FFTSO3) |  None
+[FFTSO3](https://github.com/fdcl-gwu/FFTSO3) |  Fast Fourier transform on SO(3)
+[2019-AIAA-RTK](https://github.com/fdcl-gwu/2019-AIAA-RTK) |  Paper: Real-time Kinematics GPS Based Telemetry System for Airborne Measurements of Ship Air Wake
+[WWW](https://github.com/fdcl-gwu/WWW) |  None
+[dissertation_shankar](https://github.com/fdcl-gwu/dissertation_shankar) |  Research all the time
+[ACC19-1](https://github.com/fdcl-gwu/ACC19-1) |  None
+[2018_aas_manuscript](https://github.com/fdcl-gwu/2018_aas_manuscript) |  None
+[ECC19](https://github.com/fdcl-gwu/ECC19) |  None
+[CDC_18](https://github.com/fdcl-gwu/CDC_18) |  None
+[JFAA18](https://github.com/fdcl-gwu/JFAA18) |  None
+[ECC19-experiments](https://github.com/fdcl-gwu/ECC19-experiments) |  None
+[TBD19](https://github.com/fdcl-gwu/TBD19) |  None
+[CDC18.2](https://github.com/fdcl-gwu/CDC18.2) |  None
+[2018_JGCD](https://github.com/fdcl-gwu/2018_JGCD) |  Submission to JGCD
+[PSST18](https://github.com/fdcl-gwu/PSST18) |  None
+[2017_JAS_manuscript](https://github.com/fdcl-gwu/2017_JAS_manuscript) |  Fork from https://github.com/skulumani/2015_Acta_manuscript for resubmission to JAS
+[AIAA19.3](https://github.com/fdcl-gwu/AIAA19.3) |  None
+[CDC18.2.Slides](https://github.com/fdcl-gwu/CDC18.2.Slides) |  None
+[TCST19](https://github.com/fdcl-gwu/TCST19) |  None
+[AIAA19.3.Slides](https://github.com/fdcl-gwu/AIAA19.3.Slides) |  None
+[FisherLee](https://github.com/fdcl-gwu/FisherLee) |  None
+
+
+<p>&#160;<br></p>
+
+
+<a name="WangWeixin442"></a>
+
+<hr>
+<p>&#160;<br></p>
+
+<img src="https://avatars3.githubusercontent.com/u/42556065?v=4"  width="200"/>
+## None
+  Personal profile: [WangWeixin442](https://github.com/WangWeixin442)  
+Email: None  
+<p>&#160;<br></p>
+
 
 
